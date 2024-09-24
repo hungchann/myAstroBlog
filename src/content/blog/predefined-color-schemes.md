@@ -1,16 +1,14 @@
 ---
+draft: false
 author: Sat Naing
-pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
-title: Predefined color schemes
 slug: predefined-color-schemes
 featured: false
-draft: false
+pubDatetime: 2022-09-26T12:13:24.000Z
+title: Predefined color schemes
 tags:
   - color-schemes
-description:
-  Some of the well-crafted, predefined color schemes for AstroPaper blog
-  theme.
+description: Some of the well-crafted, predefined color schemes for AstroPaper blog theme.
+modDatetime: 2024-01-04T09:09:06.000Z
 ---
 
 I've crafted some predefined color schemes for this AstroPaper blog theme. You can replace these color schemes with the original ones.
