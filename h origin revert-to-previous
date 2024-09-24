@@ -1,0 +1,29 @@
+[33mcommit 488eb0bad82eda245717f6c4a4d459c277529d42[m[33m ([m[1;36mHEAD -> [m[1;32mrevert-to-previous[m[33m, [m[1;31morigin/revert-to-previous[m[33m)[m
+Author: Hung Pham <hungp0722@gmail.com>
+Date:   Tue Sep 24 17:49:21 2024 +0700
+
+    test deploy
+
+[33mcommit d5ed202475e5801c23986e159e04ca19c182d134[m
+Author: Hung Pham <hungp0722@gmail.com>
+Date:   Tue Sep 24 16:16:11 2024 +0700
+
+    sửa lại thành web của bản thân
+
+[33mcommit e7a52646ae59dba8b7205c26987bf94fa94a1815[m
+Author: Hung Pham <hungp0722@gmail.com>
+Date:   Tue Sep 24 15:32:30 2024 +0700
+
+    add login portal
+
+[33mcommit c49bc68ccc95d883a989a49b90a866fe46d92e71[m
+Author: Hung Pham <hungp0722@gmail.com>
+Date:   Tue Sep 24 15:17:46 2024 +0700
+
+    config blog to netlify
+
+[33mcommit c7d829d2c09f94e809e1acba15019150f2a83a2e[m
+Author: houston[bot] <astrobot-houston@users.noreply.github.com>
+Date:   Mon Sep 23 07:46:09 2024 +0700
+
+    Initial commit from Astro
