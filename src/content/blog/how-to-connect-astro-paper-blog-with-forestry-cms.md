@@ -1,18 +1,17 @@
 ---
-title: How to connect AstroPaper blog with Forestry CMS
+draft: false
+ogImage: https://res.cloudinary.com/noezectz/v1663745737/astro-paper/astropaper-x-forestry-og_kqfwp0.png
 author: Sat Naing
-pubDatetime: 2022-09-21T05:17:19Z
 slug: how-to-connect-astro-paper-blog-with-forestry-cms
 featured: false
-draft: false
+pubDatetime: 2022-09-21T05:17:19.000Z
+title: How to connect AstroPaper blog with Forestry CMS
 tags:
   - docs
   - forestry-cms
   - astro-paper
-ogImage: https://res.cloudinary.com/noezectz/v1663745737/astro-paper/astropaper-x-forestry-og_kqfwp0.png
-description:
-  Step by step process of connecting Astro-Paper blog theme with Forestry
-  Headless CMS.
+description: Step by step process of connecting Astro-Paper blog theme with
+  Forestry Headless CMS.
 ---
 
 > Important!!! Forestry is going to be discontinued on April 22nd, 2023. You can [read their announcement](https://forestry.io/blog/forestry.io-end-of-life/) for more info.
