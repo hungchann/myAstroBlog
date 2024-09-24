@@ -1,10 +1,10 @@
 ---
+ogImage: ../../assets/images/AstroPaper-v4.png
 author: Sat Naing
+slug: astro-paper-v4
+featured: true
 pubDatetime: 2024-01-04T09:30:41.816Z
 title: AstroPaper 4.0
-slug: "astro-paper-v4"
-featured: true
-ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
   - release
 description: "AstroPaper v4: ensuring a smoother and more feature-rich blogging experience."
